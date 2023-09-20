@@ -22,3 +22,5 @@ internal class Program
         build: DesignOnlyAttribute = new DesignOnlyAttribute
 
         fix: LicenseManager = new LicenseManager
+        
+        refactor: DnsEndPoint = new DnsEndPoint
