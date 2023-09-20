@@ -17,10 +17,8 @@ internal class Program
 
         fix: FileAccess = new FileAccess
 
+        fix: UriFormat = new UriFormat
+
+        build: DesignOnlyAttribute = new DesignOnlyAttribute
+
         
-
-
-
-
-
-
